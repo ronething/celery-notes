@@ -1,0 +1,17 @@
+[[source]]
+url = "https://mirrors.ustc.edu.cn/pypi/web/simple/"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+celery = "==3.1.26.post2"
+django-celery = "==3.2.2"
+redis = "==2.10.6"
+django = "==2.2.3"
+
+[dev-packages]
+yapf = "*"
+pylint = "*"
+
+[requires]
+python_version = "3.6"
