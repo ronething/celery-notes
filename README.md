@@ -5,6 +5,45 @@
 - 异步任务：将耗时操作任务提交给 celery 去异步执行，比如发送短信/邮件、消息推送、音视频处理等等
 - 定时任务：类似于 linux crontab，比如每日数据统计
 
+## 开发
+
+- 启动 flower
+
+`python manage.py celery flower`
+
+可以通过 `--basic_auth=username:password` 添加认证
+
+- 启动 worker
+
+`pipenv run python manage.py celery worker -l INFO`
+
+- 启动 beat
+
+`pipenv run python manage.py celery beat -l INFO`
+
+## supervisor
+
+使用 supervisor 进行进程管理
+
+- 默认配置文件导入
+
+```sh
+mkdir conf
+echo_supervisord_conf > conf/supervisord.conf
+```
+
+- 取消部分注释
+
+```
+[inet_http_server]         ; inet (TCP) server disabled by default
+port=127.0.0.1:9001        ; ip_address:port specifier, *:port for all iface
+[supervisorctl]
+serverurl=unix:///tmp/supervisor.sock ; use a unix:// URL  for a unix socket
+serverurl=http://127.0.0.1:9001 ; use an http:// url to specify an inet socket
+[include]
+files = *.ini
+```
+
 ## qa
 
 - `TypeError: can only concatenate list (not "tuple") to list`

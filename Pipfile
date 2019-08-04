@@ -8,6 +8,8 @@ celery = "==3.1.26.post2"
 django-celery = "==3.2.2"
 redis = "==2.10.6"
 django = "==2.2.3"
+flower = "*"
+supervisor = "*"
 
 [dev-packages]
 yapf = "*"

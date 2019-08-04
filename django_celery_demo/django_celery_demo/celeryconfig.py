@@ -32,7 +32,7 @@ CELERYD_CONCURRENCY = 4
 # 允许重试
 CELERY_ACKS_LATE = True
 
-# 每个 workder 最多执行 100 个任务被销毁，可以防止内存泄漏
+# 每个 worker 最多执行 100 个任务被销毁，可以防止内存泄漏
 CELERYD_MAX_TASKS_PER_CHILD = 100
 
 # 单个任务的最大执行时间

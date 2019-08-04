@@ -1,0 +1,316 @@
+[I 190804 04:31:57 command:136] Visit me at http://localhost:5555
+[I 190804 04:31:57 command:141] Broker: redis://127.0.0.1:6379/1
+[I 190804 04:31:57 command:144] Registered tasks: 
+    ['celery.backend_cleanup',
+     'celery.chain',
+     'celery.chord',
+     'celery.chord_unlock',
+     'celery.chunks',
+     'celery.group',
+     'celery.map',
+     'celery.starmap',
+     'course-task']
+[I 190804 04:31:57 mixins:231] Connected to redis://127.0.0.1:6379/1
+[W 190804 04:32:01 control:44] 'conf' inspect method failed
+[I 190804 04:32:18 command:44] SIGTERM detected, shutting down
+[I 190804 04:32:19 command:136] Visit me at http://localhost:5555
+[I 190804 04:32:19 command:141] Broker: redis://127.0.0.1:6379/1
+[I 190804 04:32:19 command:144] Registered tasks: 
+    ['celery.backend_cleanup',
+     'celery.chain',
+     'celery.chord',
+     'celery.chord_unlock',
+     'celery.chunks',
+     'celery.group',
+     'celery.map',
+     'celery.starmap',
+     'course-task']
+[I 190804 04:32:19 mixins:231] Connected to redis://127.0.0.1:6379/1
+[W 190804 04:32:23 control:44] 'stats' inspect method failed
+[W 190804 04:32:23 control:44] 'active_queues' inspect method failed
+[W 190804 04:32:23 control:44] 'scheduled' inspect method failed
+[W 190804 04:32:23 control:44] 'reserved' inspect method failed
+[W 190804 04:32:23 control:44] 'revoked' inspect method failed
+[W 190804 04:32:23 control:44] 'conf' inspect method failed
+[W 190804 04:33:05 web:1667] 404 GET /broker (127.0.0.1): Unable to get queues: ''str' object has no attribute 'name''
+[W 190804 04:33:07 web:1667] 404 GET /broker (127.0.0.1): Unable to get queues: ''str' object has no attribute 'name''
+[I 190804 04:33:28 command:44] SIGTERM detected, shutting down
+[I 190804 04:33:33 command:136] Visit me at http://localhost:5555
+[I 190804 04:33:33 command:141] Broker: redis://127.0.0.1:6379/1
+[I 190804 04:33:33 command:144] Registered tasks: 
+    ['celery.backend_cleanup',
+     'celery.chain',
+     'celery.chord',
+     'celery.chord_unlock',
+     'celery.chunks',
+     'celery.group',
+     'celery.map',
+     'celery.starmap',
+     'course-task']
+[I 190804 04:33:33 mixins:231] Connected to redis://127.0.0.1:6379/1
+[W 190804 04:33:37 control:44] 'stats' inspect method failed
+[W 190804 04:33:37 control:44] 'active_queues' inspect method failed
+[W 190804 04:33:37 control:44] 'registered' inspect method failed
+[W 190804 04:33:37 control:44] 'scheduled' inspect method failed
+[W 190804 04:33:37 control:44] 'active' inspect method failed
+[W 190804 04:33:37 control:44] 'reserved' inspect method failed
+[W 190804 04:33:37 control:44] 'revoked' inspect method failed
+[W 190804 04:33:37 control:44] 'conf' inspect method failed
+[W 190804 04:33:46 web:1667] 404 GET /broker (127.0.0.1): Unable to get queues: ''str' object has no attribute 'name''
+[I 190804 04:34:04 command:44] SIGTERM detected, shutting down
+[I 190804 04:34:11 command:136] Visit me at http://localhost:5555
+[I 190804 04:34:12 command:141] Broker: redis://127.0.0.1:6379/1
+[I 190804 04:34:12 command:144] Registered tasks: 
+    ['celery.backend_cleanup',
+     'celery.chain',
+     'celery.chord',
+     'celery.chord_unlock',
+     'celery.chunks',
+     'celery.group',
+     'celery.map',
+     'celery.starmap',
+     'course-task']
+[I 190804 04:34:12 mixins:231] Connected to redis://127.0.0.1:6379/1
+[W 190804 04:34:14 control:44] 'stats' inspect method failed
+[W 190804 04:34:14 control:44] 'active_queues' inspect method failed
+[W 190804 04:34:14 control:44] 'registered' inspect method failed
+[W 190804 04:34:14 control:44] 'scheduled' inspect method failed
+[W 190804 04:34:14 control:44] 'active' inspect method failed
+[W 190804 04:34:14 control:44] 'reserved' inspect method failed
+[W 190804 04:34:14 control:44] 'revoked' inspect method failed
+[W 190804 04:34:14 control:44] 'conf' inspect method failed
+[W 190804 04:34:17 web:1667] 404 GET /broker (127.0.0.1): Unable to get queues: ''str' object has no attribute 'name''
+[I 190804 04:34:25 command:44] SIGTERM detected, shutting down
+[I 190804 04:34:30 command:136] Visit me at http://localhost:5555
+[I 190804 04:34:30 command:141] Broker: redis://127.0.0.1:6379/1
+[I 190804 04:34:30 command:144] Registered tasks: 
+    ['celery.backend_cleanup',
+     'celery.chain',
+     'celery.chord',
+     'celery.chord_unlock',
+     'celery.chunks',
+     'celery.group',
+     'celery.map',
+     'celery.starmap',
+     'course-task']
+[I 190804 04:34:30 mixins:231] Connected to redis://127.0.0.1:6379/1
+[W 190804 04:34:33 control:44] 'stats' inspect method failed
+[W 190804 04:34:33 control:44] 'active_queues' inspect method failed
+[W 190804 04:34:33 control:44] 'registered' inspect method failed
+[W 190804 04:34:33 control:44] 'scheduled' inspect method failed
+[W 190804 04:34:33 control:44] 'active' inspect method failed
+[W 190804 04:34:33 control:44] 'reserved' inspect method failed
+[W 190804 04:34:33 control:44] 'revoked' inspect method failed
+[W 190804 04:34:33 control:44] 'conf' inspect method failed
+[W 190804 04:34:43 web:1667] 404 GET /broker (127.0.0.1): Unable to get queues: ''str' object has no attribute 'name''
+[I 190804 04:34:59 command:44] SIGTERM detected, shutting down
+[I 190804 04:36:50 command:136] Visit me at http://localhost:5555
+[I 190804 04:36:50 command:141] Broker: redis://127.0.0.1:6379/1
+[I 190804 04:36:50 command:144] Registered tasks: 
+    ['celery.backend_cleanup',
+     'celery.chain',
+     'celery.chord',
+     'celery.chord_unlock',
+     'celery.chunks',
+     'celery.group',
+     'celery.map',
+     'celery.starmap',
+     'course-task']
+[I 190804 04:36:50 mixins:231] Connected to redis://127.0.0.1:6379/1
+[W 190804 04:36:53 control:44] 'stats' inspect method failed
+[W 190804 04:36:53 control:44] 'active_queues' inspect method failed
+[W 190804 04:36:53 control:44] 'registered' inspect method failed
+[W 190804 04:36:53 control:44] 'scheduled' inspect method failed
+[W 190804 04:36:53 control:44] 'active' inspect method failed
+[W 190804 04:36:53 control:44] 'reserved' inspect method failed
+[W 190804 04:36:53 control:44] 'revoked' inspect method failed
+[W 190804 04:36:53 control:44] 'conf' inspect method failed
+[W 190804 04:37:02 web:1667] 404 GET /broker (127.0.0.1): Unable to get queues: ''str' object has no attribute 'name''
+[W 190804 04:37:03 web:1667] 404 GET /broker (127.0.0.1): Unable to get queues: ''str' object has no attribute 'name''
+[W 190804 04:37:06 web:1667] 404 GET /broker (127.0.0.1): Unable to get queues: ''str' object has no attribute 'name''
+[W 190804 04:39:03 web:1667] 404 GET /broker (127.0.0.1): Unable to get queues: ''str' object has no attribute 'name''
+[I 190804 04:39:50 command:44] SIGTERM detected, shutting down
+[I 190804 05:22:50 command:136] Visit me at http://localhost:5555
+[I 190804 05:22:50 command:141] Broker: redis://127.0.0.1:6379/1
+[I 190804 05:22:50 command:144] Registered tasks: 
+    ['celery.backend_cleanup',
+     'celery.chain',
+     'celery.chord',
+     'celery.chord_unlock',
+     'celery.chunks',
+     'celery.group',
+     'celery.map',
+     'celery.starmap',
+     'course-task']
+[I 190804 05:22:50 mixins:231] Connected to redis://127.0.0.1:6379/1
+[W 190804 05:22:53 control:44] 'stats' inspect method failed
+[W 190804 05:22:53 control:44] 'active_queues' inspect method failed
+[W 190804 05:22:53 control:44] 'registered' inspect method failed
+[W 190804 05:22:53 control:44] 'scheduled' inspect method failed
+[W 190804 05:22:53 control:44] 'active' inspect method failed
+[W 190804 05:22:53 control:44] 'reserved' inspect method failed
+[W 190804 05:22:53 control:44] 'revoked' inspect method failed
+[W 190804 05:22:53 control:44] 'conf' inspect method failed
+[W 190804 05:23:29 web:1667] 404 GET /broker (127.0.0.1): Unable to get queues: ''str' object has no attribute 'name''
+[W 190804 05:23:44 web:1667] 404 GET /broker (127.0.0.1): Unable to get queues: ''str' object has no attribute 'name''
+[I 190804 05:25:19 command:44] SIGTERM detected, shutting down
+[I 190804 05:25:21 command:136] Visit me at http://localhost:5555
+[I 190804 05:25:22 command:141] Broker: redis://127.0.0.1:6379/1
+[I 190804 05:25:22 command:144] Registered tasks: 
+    ['celery.backend_cleanup',
+     'celery.chain',
+     'celery.chord',
+     'celery.chord_unlock',
+     'celery.chunks',
+     'celery.group',
+     'celery.map',
+     'celery.starmap',
+     'course-task']
+[I 190804 05:25:22 mixins:231] Connected to redis://127.0.0.1:6379/1
+[I 190804 05:25:57 command:44] SIGTERM detected, shutting down
+[I 190804 05:26:04 command:136] Visit me at http://localhost:5555
+[I 190804 05:26:04 command:141] Broker: redis://127.0.0.1:6379/1
+[I 190804 05:26:04 command:144] Registered tasks: 
+    ['celery.backend_cleanup',
+     'celery.chain',
+     'celery.chord',
+     'celery.chord_unlock',
+     'celery.chunks',
+     'celery.group',
+     'celery.map',
+     'celery.starmap',
+     'course-task']
+[I 190804 05:26:04 mixins:231] Connected to redis://127.0.0.1:6379/1
+[W 190804 05:26:08 control:44] 'stats' inspect method failed
+[W 190804 05:26:08 control:44] 'active_queues' inspect method failed
+[W 190804 05:26:08 control:44] 'registered' inspect method failed
+[W 190804 05:26:08 control:44] 'scheduled' inspect method failed
+[W 190804 05:26:08 control:44] 'active' inspect method failed
+[W 190804 05:26:08 control:44] 'reserved' inspect method failed
+[W 190804 05:26:08 control:44] 'revoked' inspect method failed
+[W 190804 05:26:08 control:44] 'conf' inspect method failed
+[W 190804 05:26:38 web:1667] 404 GET /broker (127.0.0.1): Unable to get queues: ''str' object has no attribute 'name''
+[W 190804 05:26:40 web:1667] 404 GET /broker (127.0.0.1): Unable to get queues: ''str' object has no attribute 'name''
+[W 190804 05:28:07 control:44] 'conf' inspect method failed
+[I 190804 05:28:33 command:44] SIGTERM detected, shutting down
+[I 190804 05:28:35 command:136] Visit me at http://localhost:5555
+[I 190804 05:28:35 command:141] Broker: redis://127.0.0.1:6379/1
+[I 190804 05:28:35 command:144] Registered tasks: 
+    ['celery.backend_cleanup',
+     'celery.chain',
+     'celery.chord',
+     'celery.chord_unlock',
+     'celery.chunks',
+     'celery.group',
+     'celery.map',
+     'celery.starmap',
+     'course-task']
+[I 190804 05:28:35 mixins:231] Connected to redis://127.0.0.1:6379/1
+[W 190804 05:28:38 control:44] 'conf' inspect method failed
+[W 190804 05:29:05 control:44] 'conf' inspect method failed
+[I 190804 05:37:23 command:44] SIGTERM detected, shutting down
+[D 190804 05:58:19 selector_events:65] Using selector: KqueueSelector
+[I 190804 05:58:19 command:136] Visit me at http://localhost:5555
+[I 190804 05:58:19 command:141] Broker: redis://127.0.0.1:6379/1
+[I 190804 05:58:19 command:144] Registered tasks: 
+    ['celery.backend_cleanup',
+     'celery.chain',
+     'celery.chord',
+     'celery.chord_unlock',
+     'celery.chunks',
+     'celery.group',
+     'celery.map',
+     'celery.starmap',
+     'course-task']
+[D 190804 05:58:19 command:146] Settings: {'cookie_secret': b'662qOovgTPCZeeGcyTEy99uvjTNTd03RmjAC1Be5VI8=',
+     'debug': False,
+     'login_url': '/login',
+     'static_path': '/Users/ronething/.local/share/virtualenvs/celeryDEMO-YQTcXGNv/lib/python3.6/site-packages/flower/static',
+     'static_url_prefix': '/static/',
+     'template_path': '/Users/ronething/.local/share/virtualenvs/celeryDEMO-YQTcXGNv/lib/python3.6/site-packages/flower/templates'}
+[D 190804 05:58:19 control:29] Updating all worker's cache...
+[I 190804 05:58:19 mixins:231] Connected to redis://127.0.0.1:6379/1
+[W 190804 05:58:22 control:44] 'revoked' inspect method failed
+[D 190804 05:58:22 app:62] Successfully updated worker cache
+[I 190804 06:02:53 command:44] SIGTERM detected, shutting down
+[D 190804 06:03:11 selector_events:65] Using selector: KqueueSelector
+[I 190804 06:03:11 command:136] Visit me at http://localhost:5555
+[I 190804 06:03:11 command:141] Broker: redis://127.0.0.1:6379/1
+[I 190804 06:03:11 command:144] Registered tasks: 
+    ['celery.backend_cleanup',
+     'celery.chain',
+     'celery.chord',
+     'celery.chord_unlock',
+     'celery.chunks',
+     'celery.group',
+     'celery.map',
+     'celery.starmap',
+     'course-task']
+[D 190804 06:03:11 command:146] Settings: {'cookie_secret': b'75LbC4yASQW29cHPHLoXqOeM0gWiS053mMzA9Epn4u8=',
+     'debug': False,
+     'login_url': '/login',
+     'static_path': '/Users/ronething/.local/share/virtualenvs/celeryDEMO-YQTcXGNv/lib/python3.6/site-packages/flower/static',
+     'static_url_prefix': '/static/',
+     'template_path': '/Users/ronething/.local/share/virtualenvs/celeryDEMO-YQTcXGNv/lib/python3.6/site-packages/flower/templates'}
+[D 190804 06:03:11 control:29] Updating all worker's cache...
+[I 190804 06:03:11 mixins:231] Connected to redis://127.0.0.1:6379/1
+[D 190804 06:03:14 app:62] Successfully updated worker cache
+[I 190804 06:12:03 command:44] SIGTERM detected, shutting down
+[D 190804 06:12:26 selector_events:65] Using selector: KqueueSelector
+[I 190804 06:12:26 command:136] Visit me at http://localhost:5555
+[I 190804 06:12:26 command:141] Broker: redis://127.0.0.1:6379/1
+[I 190804 06:12:26 command:144] Registered tasks: 
+    ['celery.backend_cleanup',
+     'celery.chain',
+     'celery.chord',
+     'celery.chord_unlock',
+     'celery.chunks',
+     'celery.group',
+     'celery.map',
+     'celery.starmap',
+     'course-task']
+[D 190804 06:12:26 command:146] Settings: {'cookie_secret': b'nxGLfukqRsSWG73J6k71DE+P7boxi0rqnSTVRzVazW8=',
+     'debug': False,
+     'login_url': '/login',
+     'static_path': '/Users/ronething/.local/share/virtualenvs/celeryDEMO-YQTcXGNv/lib/python3.6/site-packages/flower/static',
+     'static_url_prefix': '/static/',
+     'template_path': '/Users/ronething/.local/share/virtualenvs/celeryDEMO-YQTcXGNv/lib/python3.6/site-packages/flower/templates'}
+[D 190804 06:12:26 control:29] Updating all worker's cache...
+[I 190804 06:12:26 mixins:231] Connected to redis://127.0.0.1:6379/1
+[W 190804 06:12:29 control:44] 'active_queues' inspect method failed
+[W 190804 06:12:29 control:44] 'scheduled' inspect method failed
+[W 190804 06:12:29 control:44] 'reserved' inspect method failed
+[W 190804 06:12:29 control:44] 'revoked' inspect method failed
+[W 190804 06:12:29 control:44] 'conf' inspect method failed
+[D 190804 06:12:29 app:62] Successfully updated worker cache
+[W 190804 06:13:42 web:1667] 404 GET /broker (127.0.0.1): Unable to get queues: ''str' object has no attribute 'name''
+[W 190804 06:13:45 web:1667] 404 GET /broker (127.0.0.1): Unable to get queues: ''str' object has no attribute 'name''
+[I 190804 06:14:19 command:44] SIGTERM detected, shutting down
+[D 190804 06:14:46 selector_events:65] Using selector: KqueueSelector
+[I 190804 06:14:46 command:136] Visit me at http://localhost:5555
+[I 190804 06:14:46 command:141] Broker: redis://127.0.0.1:6379/1
+[I 190804 06:14:46 command:144] Registered tasks: 
+    ['celery.backend_cleanup',
+     'celery.chain',
+     'celery.chord',
+     'celery.chord_unlock',
+     'celery.chunks',
+     'celery.group',
+     'celery.map',
+     'celery.starmap',
+     'course-task']
+[D 190804 06:14:46 command:146] Settings: {'cookie_secret': b'IjcX5LnbRQuj1rOHfGLSh+jQ/eMOGkZZqi0cmBcBUTw=',
+     'debug': False,
+     'login_url': '/login',
+     'static_path': '/Users/ronething/.local/share/virtualenvs/celeryDEMO-YQTcXGNv/lib/python3.6/site-packages/flower/static',
+     'static_url_prefix': '/static/',
+     'template_path': '/Users/ronething/.local/share/virtualenvs/celeryDEMO-YQTcXGNv/lib/python3.6/site-packages/flower/templates'}
+[D 190804 06:14:46 control:29] Updating all worker's cache...
+[I 190804 06:14:46 mixins:231] Connected to redis://127.0.0.1:6379/1
+[W 190804 06:14:51 control:44] 'stats' inspect method failed
+[W 190804 06:14:51 control:44] 'registered' inspect method failed
+[W 190804 06:14:51 control:44] 'reserved' inspect method failed
+[W 190804 06:14:51 control:44] 'revoked' inspect method failed
+[W 190804 06:14:51 control:44] 'conf' inspect method failed
+[D 190804 06:14:51 app:62] Successfully updated worker cache
+[I 190804 06:16:19 command:44] SIGTERM detected, shutting down
